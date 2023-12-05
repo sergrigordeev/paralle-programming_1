@@ -10,5 +10,6 @@
   <packaging>pom</packaging>
   <modules>
     <module>miniproject_0</module>
+    <module>miniproject_1</module>
   </modules>
 </project>

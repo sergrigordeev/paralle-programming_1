@@ -3,10 +3,10 @@
 
   <modelVersion>4.0.0</modelVersion>
   <groupId>edu.coursera.parallel</groupId>
-  <artifactId>miniproject_0</artifactId>
+  <artifactId>miniproject_3</artifactId>
   <packaging>jar</packaging>
   <version>0.0</version>
-  <name>miniproject_0</name>
+  <name>miniproject_3</name>
 
   <parent>
     <groupId>rice.cources</groupId>
@@ -23,11 +23,17 @@
       <groupId>edu.rice.pcdp</groupId>
       <artifactId>pcdp-core</artifactId>
     </dependency>
+
+    <dependency>
+      <groupId>org.apache.maven.plugins</groupId>
+      <artifactId>maven-resources-plugin</artifactId>
+    </dependency>
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
       <scope>test</scope>
     </dependency>
+
   </dependencies>
 
 </project>

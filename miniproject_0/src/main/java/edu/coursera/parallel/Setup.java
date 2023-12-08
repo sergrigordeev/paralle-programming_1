@@ -16,6 +16,7 @@ public final class Setup {
 
     /**
      * A simple method for testing compilation of an PCDP project.
+     *
      * @param val Input value
      * @return Dummy value
      */
